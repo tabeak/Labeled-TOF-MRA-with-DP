@@ -65,4 +65,4 @@ The aim of the project is to generate shareable TOF-MRA image patches and corres
 
 ## How to cite
 
-*As soon as the paper is published, this will be updated*
+Kossen, T., Hirzel, M.A., Madai, V.I., Boenisch, F., Hennemuth, A., Hildebrand, K., Pokutta, S., Sharma, K., Hilbert, A., Sobesky, J., Galinovic, I., Khalil, A.A., Fiebach, J.B., Frey, D., 2022. Toward Sharing Brain Images: Differentially Private TOF-MRA Images With Segmentation Labels Using Generative Adversarial Networks. Frontiers in Artificial Intelligence 5.  doi: [10.3389/frai.2022.813842](https://www.doi.org/10.3389/frai.2022.813842).
